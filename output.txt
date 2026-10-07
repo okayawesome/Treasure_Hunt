@@ -1,0 +1,45 @@
+========== POLYMORPHISM DEMO ==========
+
+You visit the Canteen.
+The canteen is almost empty after the final-hour rush.
+You can see a key here.
+-> Canteen: entered = True
+
+The Computer Lab is locked.
+You need the key to enter.
+-> Computer Lab: entered = False
+
+========== FAILED ROUTE ==========
+
+You visit the Main Stage.
+The stage is decorated for the closing ceremony.
+There is a trophy chest here.
+The chest is locked. You need the secret code.
+
+The Computer Lab is locked.
+You need the key to enter.
+Your bag is empty.
+
+========== WINNING ROUTE ==========
+
+You visit the Canteen.
+The canteen is almost empty after the final-hour rush.
+You can see a key here.
+You collected the key.
+Your bag contains: key
+
+You unlock the Computer Lab with the key.
+You enter the Computer Lab.
+Computers hum quietly. A secret code is hidden here.
+You can see a secret code here.
+You collected the secret code.
+Your bag contains: key, secret code
+
+You visit the Main Stage.
+The stage is decorated for the closing ceremony.
+There is a trophy chest here.
+
+The secret code works!
+The trophy chest opens.
+🏆 Congratulations! You found the winning trophy!
+You already have the secret code.
